@@ -1,7 +1,5 @@
-# Hackers Client
 
-
-Deploy: https://hackers-contest.herokuapp.com/
+Deploy: http://satellite-3d.herokuapp.com/
 
 
 
